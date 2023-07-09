@@ -1,5 +1,4 @@
 package application;
-
 import javafx.application.*;
 import javafx.scene.*;
 import javafx.scene.layout.*;
