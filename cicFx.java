@@ -22,7 +22,6 @@ public class cicFx extends Application {
         launch(args);
     }
 
-    @Override
     public void start(Stage primaryStage) {
         window = primaryStage;
         window.setTitle("CompoundInterestCalculatorFX");
